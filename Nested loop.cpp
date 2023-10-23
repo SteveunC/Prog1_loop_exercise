@@ -18,8 +18,6 @@ int main() {
               			  printf("%d\t", prod);
             }
         }
-
-        k++;
     }
 
     return 0;
